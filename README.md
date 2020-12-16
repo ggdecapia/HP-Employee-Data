@@ -1,2 +1,1 @@
-# sql-challenge
-Data bootbamp for SQL homework
+# sql-project
